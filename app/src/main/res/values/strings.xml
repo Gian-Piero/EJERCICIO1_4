@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ejercicio2_4</string>
+    <string name="lblTitulo">Introduce un DNI</string>
+    <string name="btnValidar">VALIDAR DNI</string>
+    <string name="txtLetraDni"></string>
+    <string name="txtNumeroDni"></string>
+</resources>
